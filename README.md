@@ -17,8 +17,11 @@ Clock Output Format
 ===================
 
 Yellow lights are represented by Y
+
 Red Lights are represented by R
+
 Unlit lights are represented by .
+
 
 So for the above example you should see
 

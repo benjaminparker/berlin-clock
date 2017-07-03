@@ -11,7 +11,7 @@ You can either use sbt or the clock script file to provide a time as follows
 
 sbt "run 14:26:51"
 
-clock 14:26:51
+./clock.sh 14:26:51
 
 Clock Output Format
 ===================

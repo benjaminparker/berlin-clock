@@ -3,6 +3,8 @@ Berlin Clock
 
 A simple multi-line text implementation of the Berlin Clock.
 
+http://www.3quarks.com/en/BerlinClock/
+
 Usage
 =====
 You can either use sbt or the clock script file to provide a time as follows

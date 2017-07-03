@@ -2,6 +2,6 @@
 2. convert no lights into text lines   Y
 3. integration test?  - done by CLockLightsDisplay spec Y
 4. parse input string and check validity Y
-5. usage
+5. app / error / usage Y
 6. clean checkout and manual test
 7. README.md update

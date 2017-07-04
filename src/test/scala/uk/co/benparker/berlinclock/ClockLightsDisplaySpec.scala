@@ -4,7 +4,7 @@ import org.specs2.mutable.Specification
 
 class ClockLightsDisplaySpec extends Specification {
 
-  val display = new ClockLightsDisplay with ClockLights {}
+  val display = new ClockLightsDisplay with ClockLights
 
   "ClockLightsDisplay" should {
 
